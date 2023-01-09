@@ -8,8 +8,8 @@
     <img src="icons/c_plus_plus.svg" width="40" height="40" alt="c plus plus">
     <img src="icons/c.svg" width="40" height="40" alt="c">
     <img src="icons/javascript.svg" width="40" height="40" alt="java script">
-    <img src="icons/html.svg" width="40" height="40" alt="html">
-    <img src="icons/css.svg" width="40" height="40" alt="css">
+    <img src="icons/html.svg" width="50" height="50" alt="html">
+    <img src="icons/css.svg" width="50" height="50" alt="css">
 
 </p>
 
@@ -22,7 +22,5 @@
 <h3 align="left">Frameworks:</h3>
 <p>
     <img src="icons/django.svg" width="40" height="40" alt="django">
-    <img src="icons/flask.svg" width="40" height="40" alt="flask">
     <img src="icons/boostrap.svg" width="40" height="40" alt="bootstrap">
-    <img src="icons/jquery.svg" width="40" height="40" alt="jquery">
 </p>
