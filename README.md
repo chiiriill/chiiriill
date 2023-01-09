@@ -15,12 +15,12 @@
 
 <h3 align="left">Tools:</h3>
 <p>
-    <img src="icons/git.svg" width="60" height="60" alt="git">
-    <img src="icons/docker.svg" width="60" height="60" alt="docker">
+    <img src="icons/git.svg" width="50" height="50" alt="git">
+    <img src="icons/docker.svg" width="50" height="50" alt="docker">
 </p>
 
 <h3 align="left">Frameworks:</h3>
 <p>
-    <img src="icons/django.svg" width="60" height="60" alt="django">
-    <img src="icons/boostrap.svg" width="60" height="60" alt="bootstrap">
+    <img src="icons/django.svg" width="50" height="50" alt="django">
+    <img src="icons/boostrap.svg" width="50" height="50" alt="bootstrap">
 </p>
